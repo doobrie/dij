@@ -22,7 +22,9 @@ const { content } = Astro.props
                 <span class="post__date">{ new Intl.DateTimeFormat('en-US', { dateStyle: 'full' }).format(new Date(content.date))}</span>
             </h5>
         </div>
-        <!--<img src={content.image} alt={content.title} />-->
+        <div class="grid place-items-center mb-10">
+        <img class="w-full" src={content.image} alt={content.title} />
+        </div>
         <Prose>
             <slot />
         </Prose>
@@ -50,4 +52,5 @@ const { content } = Astro.props
     .post__tag {
         @apply text-gray-400 hover:text-theme-primary dark:hover:text-theme-dark-primary
     }
+
 </style>
