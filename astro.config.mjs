@@ -4,6 +4,7 @@ import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
 import mdx from "@astrojs/mdx";
+import react from "@astrojs/react";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -26,6 +27,7 @@ export default /** @type {import('astro').AstroUserConfig} */ ({
     // port: 3000,         // The port to run the dev server on.
   },
   integrations: [
+    react(),
     mdx(),
     svelte(),
     tailwind({

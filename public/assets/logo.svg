@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.0546875"
-     inkscape:cx="112.12276"
+     inkscape:cx="112.45013"
      inkscape:cy="128"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -47,7 +47,7 @@
      y="46.888748"
      id="text350"><tspan
        sodipodi:role="line"
-       id="tspan348"></tspan></text>
+       id="tspan348" /></text>
   <rect
      style="fill:#000000;stroke-width:0.984128"
      id="rect525"
@@ -64,7 +64,7 @@
      y="156.86829" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.03153"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.03153"
      x="30.088444"
      y="141.69571"
      id="text2042"
@@ -73,5 +73,5 @@
        id="tspan2040"
        x="30.088444"
        y="141.69571"
-       style="font-size:74.6667px;stroke-width:1.03153">$</tspan></text>
+       style="font-size:74.6667px;stroke-width:1.03153;-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">$</tspan></text>
 </svg>

@@ -2,7 +2,8 @@
     import '@fontsource/fira-sans'
     import { SITE } from '$/config'
     import '../styles/global.css'
-
+import { GoogleAnalytics } from 'astro-analytics';
+  
     export type Props = {
         title: string
         description: string
@@ -63,3 +64,5 @@
     }
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+<GoogleAnalytics id="UA-35084522-1" />
