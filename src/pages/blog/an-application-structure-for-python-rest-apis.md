@@ -2,7 +2,7 @@
 layout: $/layouts/post.astro
 title: An Application Structure for Python REST APIs
 description: In this article, I'm going to show the structure that I use for REST based APIs using Python. In Python, I use Flask to create APIs as I find this is easy to use, yet very powerful. This article isn't a tutorial on using Flask, rather I'm showcasing the project structure I currently use that allows me to develop and test Flask applications easily.
-date: 2021-10-03
+date: 2021-10-03T08:10:40.636Z
 tags:
   - api
   - flask

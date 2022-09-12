@@ -8,7 +8,7 @@ tags:
   - rds
 author: David Salter
 authorTwitter: davidmsalter
-date: 2021-08-27
+date: 2021-08-27T08:10:40.636Z
 image: /assets/platter.jpg
 category: development
 ---
