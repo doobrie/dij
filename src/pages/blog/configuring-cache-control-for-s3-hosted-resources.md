@@ -5,7 +5,8 @@ description: When doing web development, one of the most important aspects is to
   get a site performing well with SEO (Search Engine Optimisation). One
   contributing factor to this (there are many), is effective resource caching
 tags:
-  - awss2
+  - aws
+  - s3
 author: David Salter
 authorTwitter: davidmsalter
 date: 2022-01-01T22:06:00.000Z
